@@ -6,26 +6,35 @@ sites:
   - name: pve1
     url: pve1.students.cs.unibo.it
     check: "tcp-ping"
+    port: 22
+
   - name: pve2
     url: pve2.students.cs.unibo.it
     check: "tcp-ping"
+    port: 22
+
   - name: pve3
     url: pve3.students.cs.unibo.it
     check: "tcp-ping"
+    port: 22
+
   - name: pve4
     url: pve4.students.cs.unibo.it
     check: "tcp-ping"
+    port: 22
+
   - name: pve5
     url: pve5.students.cs.unibo.it
     check: "tcp-ping"
+    port: 22
+
   - name: saragozza
     url: saragozza.students.cs.unibo.it
     check: "tcp-ping"
+    port: 22
 
   - name: Git
     url: https://git.students.cs.unibo.it
-  - name: LDAP website
-    url: https://ldap.status.cs.unibo.it
 
   - name: LDAP website
     url: https://ldap.status.cs.unibo.it
@@ -36,7 +45,6 @@ sites:
 
   - name: CSUnibo website
     url: https://csunibo.status.cs.unibo.it
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
