@@ -3,35 +3,13 @@ owner: samuelemusiani # Your GitHub organization or username, where this reposit
 repo: status.adm # The name of this repository
 
 sites:
-  - name: pve1
-    url: pve1.students.cs.unibo.it
-    check: "tcp-ping"
-    port: 22
-
-  - name: pve2
-    url: pve2.students.cs.unibo.it
-    check: "tcp-ping"
-    port: 22
-
-  - name: pve3
-    url: pve3.students.cs.unibo.it
-    check: "tcp-ping"
-    port: 22
-
-  - name: pve4
-    url: pve4.students.cs.unibo.it
-    check: "tcp-ping"
-    port: 22
-
-  - name: pve5
-    url: pve5.students.cs.unibo.it
-    check: "tcp-ping"
-    port: 22
-
   - name: saragozza
     url: saragozza.students.cs.unibo.it
     check: "tcp-ping"
     port: 22
+
+  - name: Adm website
+    url: https://students.cs.unibo.it
 
   - name: Git
     url: https://git.students.cs.unibo.it
@@ -39,12 +17,18 @@ sites:
   - name: LDAP website
     url: https://ldap.students.cs.unibo.it
 
+  - name: Netbox 
+    url: https://netbox.students.cs.unibo.it
+
   # csunibo staff
   - name: Dynamik
     url: https://risorse.students.cs.unibo.it
 
   - name: CSUnibo website
     url: https://csunibo.students.cs.unibo.it
+
+  - name: Calendar website
+    url: https://calendar.students.cs.unibo.it
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
