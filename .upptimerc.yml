@@ -30,6 +30,13 @@ sites:
   - name: LDAP website
     url: https://ldap.status.cs.unibo.it
 
+  # csunibo staff
+  - name: Dynamik
+    url: https://risorse.status.cs.unibo.it
+
+  - name: CSUnibo website
+    url: https://csunibo.status.cs.unibo.it
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
