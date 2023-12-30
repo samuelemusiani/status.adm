@@ -7,28 +7,45 @@ sites:
     url: saragozza.students.cs.unibo.it
     check: "tcp-ping"
     port: 22
+    assignees:
+      - samuelemusiani
 
   - name: Adm website
     url: https://students.cs.unibo.it
+    assignees:
+      - samuelemusiani
 
   - name: Git
     url: https://git.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
 
   - name: LDAP website
     url: https://ldap.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
 
   - name: Netbox 
     url: https://netbox.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
 
   # csunibo staff
   - name: Dynamik
     url: https://risorse.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
 
   - name: CSUnibo website
     url: https://csunibo.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
 
   - name: Calendar website
     url: https://calendar.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
