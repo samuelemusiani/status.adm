@@ -1,7 +1,7 @@
 url: https://netbox.students.cs.unibo.it
-status: down
-code: 500
-responseTime: 1429
-lastUpdated: 2024-02-12T22:55:50.566Z
+status: up
+code: 200
+responseTime: 1155
+lastUpdated: 2024-02-12T23:15:20.475Z
 startTime: 2023-12-27T22:42:43.389Z
 generator: Upptime <https://github.com/upptime/upptime>
