@@ -4,9 +4,9 @@
     "url": "saragozza.students.cs.unibo.it",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "saragozza",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 127,
     "timeYear": 125,
     "dailyMinutesDown": {
+      "2024-02-23": 0,
       "2024-01-16": 43
     }
   },
@@ -65,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ldap.students.cs.unibo.it.ico",
     "slug": "ldap-website",
     "status": "up",
-    "uptime": "89.23%",
+    "uptime": "89.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.76%",
-    "uptimeYear": "89.23%",
+    "uptimeYear": "89.37%",
     "time": 1040,
     "timeDay": 1106,
     "timeWeek": 1047,
