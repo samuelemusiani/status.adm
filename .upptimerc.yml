@@ -30,6 +30,11 @@ sites:
     assignees:
       - samuelemusiani
 
+  - name: Semaphore
+    url: https://ansible.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
+
   # csunibo staff
   - name: Dynamik
     url: https://risorse.students.cs.unibo.it
