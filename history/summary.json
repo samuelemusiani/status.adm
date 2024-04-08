@@ -29,18 +29,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "saragozza-i-pv6",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-08": 12
+      "2024-04-08": 14
     }
   },
   {
@@ -87,19 +87,19 @@
     "url": "https://git.students.cs.unibo.it",
     "icon": "https://icons.duckduckgo.com/ip3/git.students.cs.unibo.it.ico",
     "slug": "git",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "99.53%",
-    "time": 1115,
-    "timeDay": 1034,
-    "timeWeek": 1068,
-    "timeMonth": 1081,
-    "timeYear": 1115,
+    "time": 1114,
+    "timeDay": 1029,
+    "timeWeek": 1062,
+    "timeMonth": 1079,
+    "timeYear": 1114,
     "dailyMinutesDown": {
-      "2024-04-08": 1,
+      "2024-04-08": 3,
       "2024-03-26": 508,
       "2024-03-25": 139,
       "2024-01-16": 42
@@ -111,18 +111,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.students.cs.unibo.it.ico",
     "slug": "git-i-pv6",
     "status": "down",
-    "uptime": "27.61%",
-    "uptimeDay": "27.61%",
-    "uptimeWeek": "27.61%",
-    "uptimeMonth": "27.61%",
-    "uptimeYear": "27.61%",
+    "uptime": "25.37%",
+    "uptimeDay": "25.37%",
+    "uptimeWeek": "25.37%",
+    "uptimeMonth": "25.37%",
+    "uptimeYear": "25.37%",
     "time": 131,
     "timeDay": 131,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-04-08": 17
+      "2024-04-08": 20
     }
   },
   {
@@ -162,18 +162,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ldap-website-i-pv6",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-08": 12
+      "2024-04-08": 14
     }
   },
   {
@@ -215,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-08": 12
+      "2024-04-08": 14
     }
   },
   {
@@ -244,18 +244,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "semaphore-i-pv6",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-08": 12
+      "2024-04-08": 14
     }
   },
   {
@@ -299,7 +299,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-08": 12
+      "2024-04-08": 14
     }
   },
   {
@@ -341,7 +341,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-08": 12
+      "2024-04-08": 14
     }
   },
   {
@@ -371,18 +371,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "calendar-website-i-pv6",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-08": 12
+      "2024-04-08": 14
     }
   }
 ]
