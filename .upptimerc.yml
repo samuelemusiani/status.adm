@@ -26,6 +26,12 @@ sites:
     assignees:
       - samuelemusiani
 
+  - name: Git IPv6
+    url: https://git.students.cs.unibo.it
+    ipv6: true
+    assignees:
+      - samuelemusiani
+
   - name: LDAP website
     url: https://ldap.students.cs.unibo.it
     assignees:
