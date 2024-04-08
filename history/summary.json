@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.50%",
     "time": 128,
-    "timeDay": 139,
+    "timeDay": 137,
     "timeWeek": 134,
     "timeMonth": 129,
     "timeYear": 128,
@@ -21,26 +21,6 @@
       "2024-02-24": 1440,
       "2024-02-23": 278,
       "2024-01-16": 43
-    }
-  },
-  {
-    "name": "saragozza IPv6",
-    "url": "saragozza.students.cs.unibo.it",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "saragozza-i-pv6",
-    "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-08": 14
     }
   },
   {
@@ -54,33 +34,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
-    "time": 920,
-    "timeDay": 987,
-    "timeWeek": 978,
-    "timeMonth": 938,
-    "timeYear": 920,
+    "time": 921,
+    "timeDay": 996,
+    "timeWeek": 984,
+    "timeMonth": 941,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2024-03-26": 58,
       "2024-01-16": 42
     }
-  },
-  {
-    "name": "Adm website IPv6",
-    "url": "students.cs.unibo.it",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "adm-website-i-pv6",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 234,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234,
-    "dailyMinutesDown": {}
   },
   {
     "name": "Git",
@@ -89,40 +51,19 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "99.53%",
-    "time": 1114,
-    "timeDay": 1029,
-    "timeWeek": 1062,
-    "timeMonth": 1079,
-    "timeYear": 1114,
+    "time": 1113,
+    "timeDay": 1016,
+    "timeWeek": 1052,
+    "timeMonth": 1075,
+    "timeYear": 1113,
     "dailyMinutesDown": {
-      "2024-04-08": 3,
       "2024-03-26": 508,
       "2024-03-25": 139,
       "2024-01-16": 42
-    }
-  },
-  {
-    "name": "Git IPv6",
-    "url": "https://git.students.cs.unibo.it",
-    "icon": "https://icons.duckduckgo.com/ip3/git.students.cs.unibo.it.ico",
-    "slug": "git-i-pv6",
-    "status": "down",
-    "uptime": "25.37%",
-    "uptimeDay": "25.37%",
-    "uptimeWeek": "25.37%",
-    "uptimeMonth": "25.37%",
-    "uptimeYear": "25.37%",
-    "time": 131,
-    "timeDay": 131,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
-    "dailyMinutesDown": {
-      "2024-04-08": 20
     }
   },
   {
@@ -136,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.42%",
-    "time": 1084,
-    "timeDay": 1047,
-    "timeWeek": 1021,
-    "timeMonth": 1098,
-    "timeYear": 1084,
+    "time": 1082,
+    "timeDay": 1028,
+    "timeWeek": 1012,
+    "timeMonth": 1093,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2024-03-01": 827,
       "2024-02-01": 1036,
@@ -157,26 +98,6 @@
     }
   },
   {
-    "name": "LDAP website IPv6",
-    "url": "ldap.students.cs.unibo.it",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "ldap-website-i-pv6",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-08": 14
-    }
-  },
-  {
     "name": "Netbox",
     "url": "https://netbox.students.cs.unibo.it",
     "icon": "https://icons.duckduckgo.com/ip3/netbox.students.cs.unibo.it.ico",
@@ -187,35 +108,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.91%",
-    "time": 1256,
-    "timeDay": 1017,
-    "timeWeek": 1001,
-    "timeMonth": 1119,
-    "timeYear": 1256,
+    "time": 1252,
+    "timeDay": 992,
+    "timeWeek": 988,
+    "timeMonth": 1112,
+    "timeYear": 1252,
     "dailyMinutesDown": {
       "2024-03-26": 68,
       "2024-02-12": 20,
       "2024-01-16": 41
-    }
-  },
-  {
-    "name": "Netbox IPv6",
-    "url": "netbox.students.cs.unibo.it",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "netbox-i-pv6",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-08": 14
     }
   },
   {
@@ -229,33 +130,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.15%",
-    "time": 896,
-    "timeDay": 880,
-    "timeWeek": 776,
-    "timeMonth": 896,
-    "timeYear": 896,
+    "time": 880,
+    "timeDay": 834,
+    "timeWeek": 757,
+    "timeMonth": 880,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2024-03-26": 158
-    }
-  },
-  {
-    "name": "Semaphore IPv6",
-    "url": "ansible.students.cs.unibo.it",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "semaphore-i-pv6",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-08": 14
     }
   },
   {
@@ -270,9 +151,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.66%",
     "time": 976,
-    "timeDay": 746,
-    "timeWeek": 743,
-    "timeMonth": 740,
+    "timeDay": 765,
+    "timeWeek": 754,
+    "timeMonth": 744,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2024-03-26": 58,
@@ -280,26 +161,6 @@
       "2024-03-15": 26,
       "2024-01-16": 40,
       "2023-12-27": 291
-    }
-  },
-  {
-    "name": "Dynamik IPv6",
-    "url": "risorse.students.cs.unibo.it",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "dynamik-i-pv6",
-    "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-08": 14
     }
   },
   {
@@ -313,35 +174,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.74%",
-    "time": 964,
-    "timeDay": 830,
-    "timeWeek": 773,
-    "timeMonth": 815,
-    "timeYear": 964,
+    "time": 966,
+    "timeDay": 886,
+    "timeWeek": 809,
+    "timeMonth": 826,
+    "timeYear": 966,
     "dailyMinutesDown": {
       "2024-03-26": 58,
       "2024-01-16": 40,
       "2023-12-27": 291
-    }
-  },
-  {
-    "name": "CSUnibo website IPv6",
-    "url": "csunibo.students.cs.unibo.it",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "cs-unibo-website-i-pv6",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-08": 14
     }
   },
   {
@@ -355,34 +196,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
-    "time": 813,
-    "timeDay": 664,
-    "timeWeek": 624,
-    "timeMonth": 671,
-    "timeYear": 813,
+    "time": 810,
+    "timeDay": 644,
+    "timeWeek": 615,
+    "timeMonth": 667,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2024-03-26": 58,
       "2024-01-16": 39
-    }
-  },
-  {
-    "name": "Calendar website IPv6",
-    "url": "calendar.students.cs.unibo.it",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "calendar-website-i-pv6",
-    "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-04-08": 14
     }
   }
 ]
