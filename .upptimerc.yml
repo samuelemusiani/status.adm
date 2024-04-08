@@ -24,8 +24,7 @@ sites:
       - samuelemusiani
 
   - name: Adm website IPv6
-    url: https://students.cs.unibo.it
-    check: "tcp-ping"
+    url: students.cs.unibo.it
     port: 443
     ipv6: true
     assignees:
@@ -37,7 +36,7 @@ sites:
       - samuelemusiani
 
   - name: Git IPv6
-    url: git.students.cs.unibo.it
+    url: https://git.students.cs.unibo.it
     port: 443
     check: "tcp-ping"
     ipv6: true
