@@ -15,6 +15,12 @@ sites:
     assignees:
       - samuelemusiani
 
+  - name: Adm website IPv6
+    url: https://students.cs.unibo.it
+    ipv6: true
+    assignees:
+      - samuelemusiani
+
   - name: Git
     url: https://git.students.cs.unibo.it
     assignees:
