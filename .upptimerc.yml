@@ -24,7 +24,7 @@ sites:
       - samuelemusiani
 
   - name: Adm website IPv6
-    url: students.cs.unibo.it
+    url: https://students.cs.unibo.it
     check: "tcp-ping"
     port: 443
     ipv6: true
