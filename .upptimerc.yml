@@ -10,13 +10,23 @@ sites:
     assignees:
       - samuelemusiani
 
+  - name: saragozza IPv6
+    url: saragozza.students.cs.unibo.it
+    check: "tcp-ping"
+    port: 22
+    ipv6: true
+    assignees:
+      - samuelemusiani
+
   - name: Adm website
     url: https://students.cs.unibo.it
     assignees:
       - samuelemusiani
 
   - name: Adm website IPv6
-    url: https://students.cs.unibo.it
+    url: students.cs.unibo.it
+    check: "tcp-ping"
+    port: 443
     ipv6: true
     assignees:
       - samuelemusiani
@@ -39,13 +49,37 @@ sites:
     assignees:
       - samuelemusiani
 
-  - name: Netbox 
+  - name: LDAP website IPv6
+    url: ldap.students.cs.unibo.it
+    check: "tcp-ping"
+    port: 443
+    ipv6: true
+    assignees:
+      - samuelemusiani
+
+  - name: Netbox
     url: https://netbox.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
+
+  - name: Netbox IPv6
+    url: netbox.students.cs.unibo.it
+    check: "tcp-ping"
+    port: 443
+    ipv6: true
     assignees:
       - samuelemusiani
 
   - name: Semaphore
     url: https://ansible.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
+
+  - name: Semaphore IPv6
+    url: ansible.students.cs.unibo.it
+    check: "tcp-ping"
+    port: 443
+    ipv6: true
     assignees:
       - samuelemusiani
 
@@ -55,13 +89,37 @@ sites:
     assignees:
       - samuelemusiani
 
+  - name: Dynamik IPv6
+    url: risorse.students.cs.unibo.it
+    check: "tcp-ping"
+    port: 443
+    ipv6: true
+    assignees:
+      - samuelemusiani
+
   - name: CSUnibo website
     url: https://csunibo.students.cs.unibo.it
     assignees:
       - samuelemusiani
 
+  - name: CSUnibo website IPv6
+    url: csunibo.students.cs.unibo.it
+    check: "tcp-ping"
+    port: 443
+    ipv6: true
+    assignees:
+      - samuelemusiani
+
   - name: Calendar website
     url: https://calendar.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
+
+  - name: Calendar website IPv6
+    url: calendar.students.cs.unibo.it
+    check: "tcp-ping"
+    port: 443
+    ipv6: true
     assignees:
       - samuelemusiani
 
