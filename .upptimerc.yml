@@ -27,7 +27,9 @@ sites:
       - samuelemusiani
 
   - name: Git IPv6
-    url: https://git.students.cs.unibo.it
+    url: git.students.cs.unibo.it
+    port: 443
+    check: "tcp-ping"
     ipv6: true
     assignees:
       - samuelemusiani
