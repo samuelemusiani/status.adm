@@ -90,18 +90,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git-i-pv6",
     "status": "down",
-    "uptime": "95.91%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "95.91%",
-    "uptimeYear": "95.91%",
+    "uptime": "92.80%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "92.80%",
+    "uptimeMonth": "92.80%",
+    "uptimeYear": "92.80%",
     "time": 131,
     "timeDay": 131,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-04-08": 0
+      "2024-04-08": 1
     }
   },
   {
