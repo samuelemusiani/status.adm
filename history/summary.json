@@ -211,19 +211,19 @@
     "url": "https://media.students.cs.unibo.it",
     "icon": "https://icons.duckduckgo.com/ip3/media.students.cs.unibo.it.ico",
     "slug": "media",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 663,
-    "timeWeek": 732,
-    "timeMonth": 732,
-    "timeYear": 732,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 762,
+    "timeDay": 757,
+    "timeWeek": 762,
+    "timeMonth": 762,
+    "timeYear": 762,
     "dailyMinutesDown": {
-      "2024-04-23": 0
+      "2024-04-23": 20
     }
   },
   {
