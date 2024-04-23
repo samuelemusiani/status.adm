@@ -1,7 +1,7 @@
 url: https://media.students.cs.unibo.it
-status: up
-code: 200
-responseTime: 658
-lastUpdated: 2024-04-22T23:17:30.175Z
+status: down
+code: 500
+responseTime: 668
+lastUpdated: 2024-04-23T07:55:12.994Z
 startTime: 2024-04-19T20:29:03.194Z
 generator: Upptime <https://github.com/upptime/upptime>
