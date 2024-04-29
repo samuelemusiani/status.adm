@@ -58,6 +58,8 @@ sites:
 
   - name: Registrate
     url: https://registrate.students.cs.unibo.it
+    headers:
+      - "Authorization: Basic $REGISTRATE_AUTH"
     assignees:
       - samuelemusiani
 
