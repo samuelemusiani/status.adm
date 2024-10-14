@@ -63,6 +63,21 @@ sites:
     assignees:
       - samuelemusiani
 
+  - name: Dumbo
+    url: https://dumbo.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
+      
+  - name: Dumbo
+    url: https://vm.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
+
+  - name: Fileseeker
+    url: https://dav.students.cs.unibo.it
+    assignees:
+      - samuelemusiani
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
