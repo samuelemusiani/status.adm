@@ -1,7 +1,7 @@
-url: https://vm.students.cs.unibo.it
-status: up
-code: 200
-responseTime: 708
-lastUpdated: 2024-11-08T14:15:51.733Z
+url: https://dumbo.students.cs.unibo.it
+status: down
+code: 502
+responseTime: 3612
+lastUpdated: 2024-11-08T14:32:43.790Z
 startTime: 2024-10-14T07:48:40.238Z
 generator: Upptime <https://github.com/upptime/upptime>
