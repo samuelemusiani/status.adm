@@ -68,7 +68,7 @@ sites:
     assignees:
       - samuelemusiani
       
-  - name: Dumbo
+  - name: VMID
     url: https://vm.students.cs.unibo.it
     assignees:
       - samuelemusiani
