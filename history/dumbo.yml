@@ -1,7 +1,7 @@
 url: https://dumbo.students.cs.unibo.it
-status: down
-code: 502
-responseTime: 3600
-lastUpdated: 2024-11-10T23:19:19.263Z
+status: up
+code: 200
+responseTime: 878
+lastUpdated: 2024-11-11T13:53:49.099Z
 startTime: 2024-10-14T07:48:40.238Z
 generator: Upptime <https://github.com/upptime/upptime>
