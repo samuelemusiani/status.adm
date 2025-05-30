@@ -75,6 +75,8 @@ sites:
 
   - name: Fileseeker
     url: https://dav.students.cs.unibo.it
+    expectedStatusCodes:
+      - 405
     assignees:
       - samuelemusiani
 
