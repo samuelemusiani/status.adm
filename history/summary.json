@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.26%",
     "time": 123,
-    "timeDay": 101,
-    "timeWeek": 112,
-    "timeMonth": 122,
+    "timeDay": 145,
+    "timeWeek": 117,
+    "timeMonth": 121,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-08-27": 603,
@@ -26,8 +26,7 @@
       "2025-08-19": 217,
       "2025-07-22": 450,
       "2025-07-21": 90,
-      "2024-10-10": 29,
-      "2024-10-02": 29
+      "2024-10-10": 29
     }
   },
   {
@@ -42,10 +41,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.40%",
     "time": 1095,
-    "timeDay": 778,
-    "timeWeek": 982,
-    "timeMonth": 1136,
-    "timeYear": 1130,
+    "timeDay": 1174,
+    "timeWeek": 991,
+    "timeMonth": 1125,
+    "timeYear": 1131,
     "dailyMinutesDown": {
       "2025-08-27": 603,
       "2025-08-25": 539,
@@ -64,8 +63,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 550,
       "2024-10-11": 33,
-      "2024-10-10": 29,
-      "2024-10-02": 28
+      "2024-10-10": 29
     }
   },
   {
@@ -74,15 +72,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.students.cs.unibo.it.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.09%",
-    "time": 1135,
-    "timeDay": 964,
-    "timeWeek": 1013,
-    "timeMonth": 1212,
+    "time": 1134,
+    "timeDay": 903,
+    "timeWeek": 1001,
+    "timeMonth": 1196,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2025-08-27": 602,
@@ -106,8 +104,7 @@
       "2024-10-20": 550,
       "2024-10-11": 50,
       "2024-10-10": 29,
-      "2024-10-07": 16,
-      "2024-10-02": 28
+      "2024-10-07": 16
     }
   },
   {
@@ -121,10 +118,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.39%",
-    "time": 1115,
-    "timeDay": 933,
-    "timeWeek": 978,
-    "timeMonth": 1151,
+    "time": 1116,
+    "timeDay": 1314,
+    "timeWeek": 1067,
+    "timeMonth": 1125,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2025-08-27": 602,
@@ -146,8 +143,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 550,
       "2024-10-11": 33,
-      "2024-10-10": 29,
-      "2024-10-02": 28
+      "2024-10-10": 29
     }
   },
   {
@@ -156,16 +152,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/netbox.students.cs.unibo.it.ico",
     "slug": "netbox",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.39%",
-    "time": 1186,
-    "timeDay": 1033,
-    "timeWeek": 912,
-    "timeMonth": 1024,
-    "timeYear": 1227,
+    "time": 1187,
+    "timeDay": 1434,
+    "timeWeek": 1021,
+    "timeMonth": 1028,
+    "timeYear": 1228,
     "dailyMinutesDown": {
       "2025-08-27": 601,
       "2025-08-25": 540,
@@ -184,8 +180,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 549,
       "2024-10-11": 49,
-      "2024-10-10": 29,
-      "2024-10-02": 28
+      "2024-10-10": 29
     }
   },
   {
@@ -199,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.35%",
-    "time": 1172,
-    "timeDay": 1476,
-    "timeWeek": 1286,
-    "timeMonth": 1248,
-    "timeYear": 1245,
+    "time": 1174,
+    "timeDay": 1340,
+    "timeWeek": 1266,
+    "timeMonth": 1246,
+    "timeYear": 1246,
     "dailyMinutesDown": {
       "2025-08-27": 601,
       "2025-08-25": 540,
@@ -223,8 +218,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 549,
       "2024-10-11": 32,
-      "2024-10-10": 29,
-      "2024-10-02": 27
+      "2024-10-10": 29
     }
   },
   {
@@ -238,10 +232,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.40%",
-    "time": 785,
-    "timeDay": 1005,
-    "timeWeek": 788,
-    "timeMonth": 817,
+    "time": 784,
+    "timeDay": 612,
+    "timeWeek": 807,
+    "timeMonth": 796,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2025-08-27": 600,
@@ -261,8 +255,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 548,
       "2024-10-11": 32,
-      "2024-10-10": 28,
-      "2024-10-02": 27
+      "2024-10-10": 28
     }
   },
   {
@@ -271,16 +264,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/csunibo.students.cs.unibo.it.ico",
     "slug": "cs-unibo-website",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.33%",
-    "time": 1343,
-    "timeDay": 1607,
-    "timeWeek": 1570,
-    "timeMonth": 1755,
-    "timeYear": 1609,
+    "time": 1345,
+    "timeDay": 1365,
+    "timeWeek": 1562,
+    "timeMonth": 1728,
+    "timeYear": 1611,
     "dailyMinutesDown": {
       "2025-08-27": 600,
       "2025-08-25": 540,
@@ -301,8 +294,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 548,
       "2024-10-11": 67,
-      "2024-10-10": 28,
-      "2024-10-02": 27
+      "2024-10-10": 28
     }
   },
   {
@@ -311,16 +303,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/calendar.students.cs.unibo.it.ico",
     "slug": "calendar-website",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.35%",
-    "time": 885,
-    "timeDay": 774,
-    "timeWeek": 1027,
-    "timeMonth": 1066,
-    "timeYear": 926,
+    "time": 887,
+    "timeDay": 1612,
+    "timeWeek": 1139,
+    "timeMonth": 1079,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2025-08-27": 727,
       "2025-08-25": 549,
@@ -340,8 +332,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 548,
       "2024-10-11": 47,
-      "2024-10-10": 28,
-      "2024-10-02": 26
+      "2024-10-10": 28
     }
   },
   {
@@ -350,15 +341,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.students.cs.unibo.it.ico",
     "slug": "media",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.38%",
     "time": 810,
-    "timeDay": 542,
-    "timeWeek": 641,
-    "timeMonth": 844,
+    "timeDay": 754,
+    "timeWeek": 664,
+    "timeMonth": 822,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2025-08-27": 599,
@@ -380,8 +371,7 @@
       "2024-10-18": 52,
       "2024-10-17": 50,
       "2024-10-11": 32,
-      "2024-10-10": 28,
-      "2024-10-02": 26
+      "2024-10-10": 28
     }
   },
   {
@@ -396,9 +386,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.39%",
     "time": 847,
-    "timeDay": 533,
-    "timeWeek": 803,
-    "timeMonth": 828,
+    "timeDay": 741,
+    "timeWeek": 823,
+    "timeMonth": 824,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2025-08-27": 599,
@@ -420,8 +410,7 @@
       "2024-10-18": 50,
       "2024-10-17": 16,
       "2024-10-11": 31,
-      "2024-10-10": 28,
-      "2024-10-02": 26
+      "2024-10-10": 28
     }
   },
   {
@@ -430,15 +419,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dumbo.students.cs.unibo.it.ico",
     "slug": "dumbo",
     "status": "up",
-    "uptime": "96.38%",
+    "uptime": "96.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.38%",
+    "uptimeYear": "96.39%",
     "time": 880,
-    "timeDay": 578,
-    "timeWeek": 1088,
-    "timeMonth": 892,
+    "timeDay": 741,
+    "timeWeek": 807,
+    "timeMonth": 876,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2025-08-27": 726,
@@ -471,15 +460,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vm.students.cs.unibo.it.ico",
     "slug": "vmid",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "97.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.98%",
+    "uptimeYear": "97.99%",
     "time": 665,
-    "timeDay": 666,
-    "timeWeek": 651,
-    "timeMonth": 639,
+    "timeDay": 619,
+    "timeWeek": 639,
+    "timeMonth": 636,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2025-08-27": 598,
@@ -502,16 +491,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dav.students.cs.unibo.it.ico",
     "slug": "fileseeker",
     "status": "up",
-    "uptime": "72.76%",
+    "uptime": "72.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.76%",
-    "time": 891,
-    "timeDay": 428,
-    "timeWeek": 608,
-    "timeMonth": 712,
-    "timeYear": 891,
+    "uptimeYear": "72.84%",
+    "time": 890,
+    "timeDay": 626,
+    "timeWeek": 564,
+    "timeMonth": 685,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2025-08-27": 597,
       "2025-08-25": 540,
@@ -625,15 +614,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/underleaf.students.cs.unibo.it.ico",
     "slug": "underleaf",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "97.46%",
+    "uptimeYear": "97.47%",
     "time": 929,
-    "timeDay": 887,
-    "timeWeek": 821,
-    "timeMonth": 945,
+    "timeDay": 966,
+    "timeWeek": 850,
+    "timeMonth": 942,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2025-09-15": 106,
