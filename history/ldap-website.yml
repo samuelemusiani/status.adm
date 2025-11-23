@@ -1,7 +1,7 @@
 url: https://ldap.students.cs.unibo.it
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-23T08:32:32.653Z
+status: up
+code: 200
+responseTime: 683
+lastUpdated: 2025-11-23T11:43:53.445Z
 startTime: 2023-12-27T17:51:19.454Z
 generator: Upptime <https://github.com/upptime/upptime>
