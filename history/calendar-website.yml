@@ -1,7 +1,7 @@
 url: https://calendar.students.cs.unibo.it
-status: down
-code: 502
-responseTime: 3862
-lastUpdated: 2025-11-24T16:11:50.560Z
+status: up
+code: 200
+responseTime: 1294
+lastUpdated: 2025-11-24T16:35:40.108Z
 startTime: 2023-12-27T22:42:51.683Z
 generator: Upptime <https://github.com/upptime/upptime>
