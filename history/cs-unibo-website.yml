@@ -1,7 +1,7 @@
 url: https://csunibo.students.cs.unibo.it
-status: up
-code: 200
-responseTime: 1294
-lastUpdated: 2026-01-11T23:24:06.494Z
+status: down
+code: 502
+responseTime: 4504
+lastUpdated: 2026-01-12T10:34:29.078Z
 startTime: 2023-12-27T17:51:28.010Z
 generator: Upptime <https://github.com/upptime/upptime>
