@@ -1,7 +1,7 @@
 url: https://grafana.students.cs.unibo.it
-status: down
-code: 500
-responseTime: 20584
-lastUpdated: 2026-02-16T02:12:28.395Z
+status: up
+code: 200
+responseTime: 1386
+lastUpdated: 2026-02-16T04:34:07.018Z
 startTime: 2026-01-14T12:00:51.330Z
 generator: Upptime <https://github.com/upptime/upptime>
