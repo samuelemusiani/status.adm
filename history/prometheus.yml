@@ -1,7 +1,7 @@
 url: https://prometheus.students.cs.unibo.it
-status: up
-code: 401
-responseTime: 499
-lastUpdated: 2026-03-01T23:29:20.061Z
+status: down
+code: 502
+responseTime: 3446
+lastUpdated: 2026-03-02T14:59:48.475Z
 startTime: 2026-01-14T12:00:52.771Z
 generator: Upptime <https://github.com/upptime/upptime>
