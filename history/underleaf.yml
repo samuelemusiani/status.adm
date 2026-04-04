@@ -1,7 +1,7 @@
 url: https://underleaf.students.cs.unibo.it
-status: up
-code: 200
-responseTime: 649
-lastUpdated: 2026-04-04T11:16:26.889Z
+status: down
+code: 502
+responseTime: 3651
+lastUpdated: 2026-04-04T17:27:36.917Z
 startTime: 2024-12-18T08:46:13.978Z
 generator: Upptime <https://github.com/upptime/upptime>
