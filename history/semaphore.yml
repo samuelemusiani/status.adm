@@ -1,7 +1,7 @@
 url: https://ansible.students.cs.unibo.it
-status: up
-code: 200
-responseTime: 1119
-lastUpdated: 2026-04-17T23:44:53.515Z
+status: down
+code: 502
+responseTime: 8569
+lastUpdated: 2026-04-18T01:52:01.142Z
 startTime: 2024-03-26T08:30:04.408Z
 generator: Upptime <https://github.com/upptime/upptime>
