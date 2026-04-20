@@ -1,7 +1,7 @@
 url: https://dav.students.cs.unibo.it
-status: down
-code: 502
-responseTime: 3636
-lastUpdated: 2026-04-19T23:43:18.931Z
+status: up
+code: 405
+responseTime: 612
+lastUpdated: 2026-04-20T10:20:55.742Z
 startTime: 2024-10-14T07:48:42.056Z
 generator: Upptime <https://github.com/upptime/upptime>
